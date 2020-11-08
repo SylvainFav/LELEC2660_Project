@@ -23,6 +23,7 @@ from math import pi as pi
 Pin_min, Pin_max = 30, 300
 Pnom = 100
 Vout = 24
+Vin = 300
 vgrid, fgrid = 220, 50
 fsw = 100e3
 
